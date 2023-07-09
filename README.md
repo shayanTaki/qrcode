@@ -9,9 +9,6 @@
 For my **CS50P** [Final Project](https://cs50.harvard.edu/python/2022/project/), I decided to create a single purpose, cross-platform desktop application with a functional GUI that generates vCards in QR code format.
 
 ### __Video Demo__
-
-[Video Demo Link](https://youtu.be/33GYi6om1kI)
-
 ### __Description__
 
 This is a single purpose desktop application that allows a user to enter contact details into a GUI that then generates a quick response code image. These QR code images can be scanned by most modern mobile devices that have a camera. QR code images allow for the ability to embed contact details on business cards, resumes, or even artwork.
